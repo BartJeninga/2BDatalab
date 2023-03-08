@@ -11,3 +11,5 @@ test
 
 hoi Bart
 >>>>>>> 1867aee4cf602a230b73034774551c5f7b461267
+
+Hallo iedereen
