@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+test 2.0
+=======
 test
+
+hoi
+>>>>>>> e77c2a26ef8718c903f9750bbf069ef7b5ac5723
